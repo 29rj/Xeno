@@ -188,6 +188,10 @@ input[type="text"]{
   width: 100px;
 }
 
+.myCart{
+  display: flex;
+}
+
 #nav-div-1 {
   /* border: 2px solid red; */
   margin-top: 28px;
